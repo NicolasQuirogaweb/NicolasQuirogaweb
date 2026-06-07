@@ -30,9 +30,6 @@ Git · GitHub · Vercel · Postman · Figma
 ## GitHub Stats
 
 
-  <img height="160" src="https://readme-stats.clehrtech.com/api/top-langs?username=NicolasQuirogaweb&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 <img src="https://streak-stats.demolab.com?user=NicolasQuirogaweb&theme=github-dark&hide_border=true" height="160" />
 
 ---
