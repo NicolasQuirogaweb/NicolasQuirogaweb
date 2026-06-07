@@ -15,7 +15,7 @@ TypeScript · React · Next.js · Tailwind CSS · Material UI · HTML5 · CSS3
 Node.js · Express · REST APIs · MongoDB · MySQL
 
 **Tools & Workflow**
-Git · GitHub · BitBucket · Vercel · Postman · Figma
+Git · GitHub · BitBucket · Vercel · Postman · Figma · Render · Backblaze
 
 ---
 
