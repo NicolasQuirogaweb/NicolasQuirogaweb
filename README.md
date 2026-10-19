@@ -10,7 +10,7 @@ I build web products end to end, from the first conversation with the client to 
 
 - **Zenit DC** — management PWA that replaces Excel, WhatsApp and paper for a construction company. Paid client project, MVP in client testing. *Next.js 16 · Supabase · Row Level Security · GitHub Actions* — private repo
 - **Sicilia** — beat store with Mercado Pago checkout for a music producer. Paid client project, in development. *Next.js 16 · Payload CMS · PostgreSQL · Cloudflare R2* — [repo](https://github.com/NicolasQuirogaweb/prod-sicilia)
-- **Riderlab** — co-founder & frontend lead of a stage plot and technical rider editor for live sound teams. MVP launches Nov 2026 – Jan 2027. *React · TypeScript · KonvaJS* — private repo
+- **Riderlab** — co-founder & frontend developer of a stage plot and technical rider editor for live sound teams. MVP launches Nov 2026 – Jan 2027. *React · TypeScript · Vite · Konva* — private repo
 
 ## ⭐ Featured projects
 
