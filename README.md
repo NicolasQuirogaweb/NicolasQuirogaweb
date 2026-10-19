@@ -36,11 +36,5 @@ I build web products end to end, from the first conversation with the client to 
 📄 CV: [English](https://portafolio-nquirogawebdev.vercel.app/Nicolas_Quiroga_Resume_EN.pdf) · [Español](https://portafolio-nquirogawebdev.vercel.app/Nicolas_Quiroga_CV_ES.pdf)
 
 
-## GitHub Stats
-
-
-<img src="https://streak-stats.demolab.com?user=NicolasQuirogaweb&theme=github-dark&hide_border=true" height="160" />
-
----
 
 
