@@ -1,31 +1,40 @@
-# Nicolas Quiroga
+# Hi, I'm Nicolás 👋
 
-**Full Stack Developer** · Buenos Aires, Argentina
+**Full Stack Developer** · Buenos Aires, Argentina · Remote / Hybrid
 
-Building scalable web products with modern JavaScript — from database to UI.
+I build web products end to end, from the first conversation with the client to production. AI-first with **Claude Code**.
 
----
+🌐 [Portfolio](https://portafolio-nquirogawebdev.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/nquirogawebdev/) · ✉️ nquirogawebdev@gmail.com
 
-## Stack
+## 🔨 What I'm working on
 
-**Frontend**
-TypeScript · React · Next.js · Tailwind CSS · Material UI · HTML5 · CSS3
+- **Zenit DC** — management PWA that replaces Excel, WhatsApp and paper for a construction company. Paid client project, MVP in client testing. *Next.js 16 · Supabase · Row Level Security · GitHub Actions* — private repo
+- **Sicilia** — beat store with Mercado Pago checkout for a music producer. Paid client project, in development. *Next.js 16 · Payload CMS · PostgreSQL · Cloudflare R2* — [repo](https://github.com/NicolasQuirogaweb/prod-sicilia)
+- **Riderlab** — co-founder & frontend lead of a stage plot and technical rider editor for live sound teams. MVP launches Nov 2026 – Jan 2027. *React · TypeScript · KonvaJS* — private repo
 
-**Backend**
-Node.js · Express · REST APIs · MongoDB · MySQL
+## ⭐ Featured projects
 
-**Tools & Workflow**
-Git · GitHub · BitBucket · Vercel · Postman · Figma · Render · Backblaze
+| Project | What it is | Stack |
+|---|---|---|
+| **Las Chinas VM** · [code](https://github.com/NicolasQuirogaweb/portafolio-constanza-gouiric) · [live](https://portafolio-constanza-gouiric.vercel.app) | Portfolio site for an event-design business (client project) | React · Vite · Tailwind |
+| **niv0 prod** · [frontend](https://github.com/NicolasQuirogaweb/niv0web-frontend) · [API](https://github.com/NicolasQuirogaweb/niv0web-backend) · [live](https://niv0web.vercel.app) | Music platform with Google login, admin panel and B2 uploads | React · Express · MongoDB · Docker |
+| **URL Shortener API** · [code](https://github.com/NicolasQuirogaweb/url-shortener-api) · [docs](https://url-shortener-04gp.onrender.com/api/docs) | JWT refresh rotation, Redis-cached redirects under 100 ms, geo click analytics | TypeScript · Express · Redis · MongoDB |
 
----
+## 🧰 Stack
 
-## Currently
+**Frontend:** TypeScript · React · Next.js · Tailwind CSS · React Hook Form · KonvaJS
+**Backend:** Node.js · Express · REST APIs · PostgreSQL · Supabase · MongoDB · Redis · Payload CMS
+**DevOps & tools:** Docker · GitHub Actions · Vercel · Render · Cloudflare R2 · Backblaze B2 · Git · Bitbucket · Figma
+**AI-assisted development:** Claude Code (project CLAUDE.md, custom skills, CI checks)
 
-- Building full stack apps with **Next.js App Router** and **TypeScript**
-- Deepening backend skills in **API design** and **database architecture**
-- Open to freelance projects and collaborations
+## 🧭 How I work
 
----
+- **Product first** — features shaped around what users actually need
+- **Secure by default** — Row Level Security, server-side validation with Zod, OAuth/JWT
+- **Quality gates** — CI with lint, type-check and build on my main projects, plus documented architecture decisions
+
+📄 CV: [English](https://portafolio-nquirogawebdev.vercel.app/Nicolas_Quiroga_Resume_EN.pdf) · [Español](https://portafolio-nquirogawebdev.vercel.app/Nicolas_Quiroga_CV_ES.pdf)
+
 
 ## GitHub Stats
 
@@ -34,7 +43,4 @@ Git · GitHub · BitBucket · Vercel · Postman · Figma · Render · Backblaze
 
 ---
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/nicolás-quiroga-2b3b6a328) · [GitHub](https://github.com/NicolasQuirogaweb)
 
